@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-web-codelab-18ebd": {
+      "hosting": {
+        "kanban-fire": [
+          "fir-web-codelab-18ebd"
+        ]
+      }
+    }
+  }
+}
